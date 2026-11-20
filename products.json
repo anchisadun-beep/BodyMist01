@@ -6,7 +6,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "images/fresh.jpg",
+    "image": "fresh.jpg",
     "description": "กลิ่นสดชื่น โปร่งเบา ให้ความรู้สึกสะอาดและกระปรี้กระเปร่า ขนาดพกพาสะดวก"
   },
   {
@@ -16,7 +16,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "images/fresh.jpg",
+    "image": "fresh.jpg",
     "description": "กลิ่นสดชื่น โปร่งเบา ให้ความรู้สึกสะอาดและกระปรี้กระเปร่า ขนาดคุ้มค่าสำหรับใช้ประจำ"
   },
   {
@@ -26,7 +26,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "images/sweet.jpg",
+    "image": "sweet.jpg",
     "description": "กลิ่นหวานนุ่มละมุน อบอุ่นและอ่อนโยน ขนาดพกพาสะดวก"
   },
   {
@@ -36,7 +36,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "images/sweet.jpg",
+    "image": "sweet.jpg",
     "description": "กลิ่นหวานนุ่มละมุน อบอุ่นและอ่อนโยน ขนาดคุ้มค่าสำหรับใช้ประจำ"
   },
   {
@@ -46,7 +46,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "images/confident.jpg",
+    "image": "confident.jpg",
     "description": "กลิ่นหนักแน่น สง่างาม เติมความมั่นใจในทุกการพบปะ ขนาดพกพาสะดวก"
   },
   {
@@ -56,7 +56,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "images/confident.jpg",
+    "image": "confident.jpg",
     "description": "กลิ่นหนักแน่น สง่างาม เติมความมั่นใจในทุกการพบปะ ขนาดคุ้มค่าสำหรับใช้ประจำ"
   },
   {
@@ -66,7 +66,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "images/romance.jpg",
+    "image": "romance.jpg",
     "description": "กลิ่นอบอุ่น ลึกซึ้ง เสน่ห์ที่ค่อยๆ ซึมซาบ ขนาดพกพาสะดวก"
   },
   {
@@ -76,7 +76,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "images/romance.jpg",
+    "image": "romance.jpg",
     "description": "กลิ่นอบอุ่น ลึกซึ้ง เสน่ห์ที่ค่อยๆ ซึมซาบ ขนาดคุ้มค่าสำหรับใช้ประจำ"
   },
   {
@@ -86,7 +86,7 @@
     "type": "rollon",
     "size": null,
     "price": 149,
-    "image": "images/fresh.jpg",
+    "image": "fresh.jpg",
     "description": "กลิ่นสดชื่น โปร่งเบา ในรูปแบบโรลออน ทาจุดชีพจรได้ตลอดวัน"
   },
   {
@@ -96,7 +96,7 @@
     "type": "rollon",
     "size": null,
     "price": 149,
-    "image": "images/sweet.jpg",
+    "image": "sweet.jpg",
     "description": "กลิ่นหวานนุ่มละมุน ในรูปแบบโรลออน ทาจุดชีพจรได้ตลอดวัน"
   }
 ]
